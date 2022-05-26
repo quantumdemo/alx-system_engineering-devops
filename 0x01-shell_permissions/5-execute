@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r--  /tmp/hello
+chmod u+x hello
