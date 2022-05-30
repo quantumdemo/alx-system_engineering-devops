@@ -1,2 +1,1 @@
-#!/bin/bash
-printf( hello, worldn)
+echo "Hello, World$" 
