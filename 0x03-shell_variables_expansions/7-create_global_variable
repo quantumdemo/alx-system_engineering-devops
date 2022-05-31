@@ -1,2 +1,3 @@
 #!/bin/bash
-export school=BEST
+export BEST=School
+export BEST=School
